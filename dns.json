@@ -4,7 +4,7 @@
     {
       "Action": "CREATE",
       "ResourceRecordSet": {
-        "Name": "mytestapp29june.tk",
+        "Name": "mytestapp29june.varunsikka.tk",
         "Type": "CNAME",
         "TTL": 1000,
         "ResourceRecords": [
